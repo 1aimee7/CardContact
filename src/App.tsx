@@ -16,7 +16,6 @@ function App() {
       <div className="container mx-auto px-4">
         <header className="mb-8 text-center">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">My Contacts</h1>
-          <p className="text-gray-600">Keep track of your important people</p>
         </header>
         
         <div className="max-w-md mx-auto grid gap-6">
